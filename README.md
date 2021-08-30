@@ -2,5 +2,5 @@
 
 ローカルリポで変更
 <<<<<<< HEAD
-rebase-git
+mainブランチで更新　conflict
 
